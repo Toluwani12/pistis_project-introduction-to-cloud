@@ -77,7 +77,7 @@ Use Case: Enterprises needing both security and flexibility, such as retail busi
 
 ### 6) Basic Cloud Architecture: - Create a simple diagram of a basic cloud architecture using services like compute (EC2), storage (S3), and networking (VPC). Describe how each service interacts.
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 ### 7) Explanation of Terms: - Define and provide examples for terms such as fault tolerance, high availability, scalability, cost optimization, and serverless computing, illustrating their significance in the context of IT infrastructure and cloud services.
 
